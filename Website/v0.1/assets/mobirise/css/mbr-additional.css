@@ -1290,6 +1290,7 @@ a {
 }
 .cid-sHn0EtxfGF .card-title {
   color: #ae1c1f;
+  text-align: center;
 }
 .cid-sHn0EtxfGF .card-subtitle {
   color: #ffffff;
@@ -1526,7 +1527,7 @@ a {
 .cid-sHn0NbJoR1 span,
 .cid-sHn0NbJoR1 iframe {
   width: 500px;
-  height: 520px;
+  height: 1000px;
 }
 .cid-sHn0NbJoR1 blockquote {
   display: none;
