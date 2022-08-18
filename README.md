@@ -1,12 +1,7 @@
 # Titan_Da_DeCoy
 
-# Project Title
-
-Simple overview of use/purpose.
-
 ## Description
-
-An in-depth paragraph about your project and overview of use.
+A website for a Music Artitist called Titan Da DeCoy. Whos is a Father figure : Creative : Recording Artist : Songwriter : Rap Artist : Wordsmith : Visual Artist : Graphixx : DMG Hitter : Co-founder at (DMG) DCY Media Group
 
 ## Getting Started
 
